@@ -6,7 +6,7 @@ The German Credit Risk dataset contains records of individuals from Germany seek
 
 This issue is important because loan decisions and their results strongly affect people’s lives, and mistakes can cause serious financial and personal consequences. By analyzing this dataset, through this project we aim to identify patterns that classify applicants as good or bad credit risk categories, cluster them by similar characteristics, and support fairer outcomes in lending.
 
-**Group Members:**
+## Group Members:
   
 Alhanouf Almusnad (445202268)
 
