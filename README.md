@@ -10,7 +10,7 @@ This issue is important because loan decisions and their results strongly affect
 
 ## Project Motivation:
 
-Credit risk analysis is one of the most critical challenges in the financial sector. For banks and lending institutions, deciding whether to approve a loan directly impacts both their stability and the lives of applicants. A wrong or ill-informed decision can lead to major financial losses for the lender or unfair denial of opportunities for borrowers.
+Credit risk analysis is one of the most impactful elements in the financial sector. For banks and lending institutions, deciding whether to approve a loan directly impacts both their stability and the lives of applicants. A wrong or ill-informed decision can lead to major financial losses for the lender or unfair denial of opportunities for borrowers.
 
 The German Credit dataset is especially valuable because it captures real-world cases of individuals applying for credit in Germany, reflecting the complexities of financial decision-making. By analyzing this dataset, we can:
 identify risk patterns, support fairness and transparency, and enhance decision-making.
