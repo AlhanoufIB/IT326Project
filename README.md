@@ -2,18 +2,12 @@
 
 
 ## Project Description:
-
-The German Credit Risk dataset contains records of individuals from Germany seeking credit, representing the kinds of decisions lenders have to make. For banks and financial institutions, credit risk is a key factor, since poor lending decisions can cause major financial losses or unfair outcomes for applicants.
-
-This issue is important because loan decisions and their results strongly affect people’s lives, and mistakes can cause serious financial and personal consequences. By analyzing this dataset, through this project we aim to identify patterns that classify applicants as good or bad credit risk categories, cluster them by similar characteristics, and support fairer outcomes in lending.
+Credit risk refers to the possibility that a borrower will fail to pay their financial obligations, resulting in losses for the lender. The German Credit Risk dataset contains records of individuals from Germany seeking credit, reflecting the types of decisions lenders regularly face. The issue this project seeks to solve is the challenge of accurately distinguishing trustworthy borrowers from high-risk applicants, so that lending decisions are both financially fair to individuals. By analyzing this dataset, we aim to identify patterns that classify applicants as ‘good’ or ‘bad’ credit risks, cluster them by similar characteristics, and ultimately support fairer and more accurate outcomes in lending.
 
 
 ## Project Motivation:
 
-Credit risk analysis is one of the most impactful elements in the financial sector. For banks and lending institutions, deciding whether to approve a loan directly impacts both their stability and the lives of applicants. A wrong or ill-informed decision can lead to major financial losses for the lender or unfair denial of opportunities for borrowers.
-
-The German Credit dataset is especially valuable because it captures real-world cases of individuals applying for credit in Germany, reflecting the complexities of financial decision-making. By analyzing this dataset, we can:
-identify risk patterns, support fairness and transparency, and enhance decision-making.
+For banks and financial institutions, credit risk analysis is a critical challenge, as poor lending decisions can cause heavy losses and unfair outcomes on applicants. Beyond finance, loan decisions shake key opportunities like housing, education, and businesses, so mistakes can directly harm people’s lives. The motivation of this project is to minimize unfair risks and promote lending practices that are accurate and responsible.
 
 
 ## Group Members:
